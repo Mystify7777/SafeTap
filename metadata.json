@@ -1,0 +1,6 @@
+{
+  "name": "SafeTap Engine",
+  "description": "Emergency Intelligence Engine for real-time risk classification and immediate safety guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-driven emergency classification", "Speech-to-text reporting", "Safety-first guidance system"]
+}
